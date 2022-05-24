@@ -1,0 +1,45 @@
+
+.header
+{
+    font-size: 20px;
+    width: 100%;
+    margin: 0%; 
+    box-shadow: 5px 5px 5px grey;
+    
+    border-style: dotted;
+    border-width: 5px;
+    border-color: rgb(255, 220, 220);
+}
+
+.para
+{
+    color: black;
+    font-size: 15px;
+    
+}
+
+.copy_right_footer
+{
+    position: fixed;
+    color: rgb(0, 0, 0);
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(243, 190, 190);
+    line-height: 3;
+    text-align: center;
+    box-shadow: 5px 5px 5px grey;
+    font-family: Forte;  
+    border-style: dashed;
+    border-color: navy;
+}
+
+.font_size
+{
+    font-size: 19.5px;
+}
+
+canvas
+{
+	border-radius: 20px;
+	border-color: palevioletred;
+}
